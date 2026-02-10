@@ -73,7 +73,7 @@
 
     <div class="container">
         <div class="gif-container">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpwaGZ4eG93bmh4eG93bmh4eG93bmh4eG93bmh4eG93JmVuPWSZz0xJmN0PXM/c77as656L3H76T996e/giphy.gif" alt="Cute hearts">
+            <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybTg2czd0aWxiZG1zcG9xNW9raXk2b3B2NjdoNjl0ODlrNmg0dGtwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zoFXxGEQRR4DknVVa/giphy.gif" alt="Cute hearts">
         </div>
         <h1>Will you be my Valentine? 💖</h1>
         <div class="buttons">
@@ -103,7 +103,7 @@
 
         function celebrate() {
             document.querySelector('.container').innerHTML = `
-                <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpwaGZ4eG93bmh4eG93bmh4eG93bmh4eG93bmh4eG93JmVuPWSZz0xJmN0PXM/MDJ9IbxxvDUQM/giphy.gif" style="width:200px">
+                <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybjU4Y3liZ2Qyam9nOXEzMjVzb2R3a2ZqN2V1OXVoM2piNnhuN2lxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W1hd3uXRIbddu/giphy.gif" style="width:200px">
                 <h1 style="color: #d63384;">Yay! See you on the 14th! 🌹✨</h1>
             `;
             // Optional: Add confetti effect here
